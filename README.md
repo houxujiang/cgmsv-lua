@@ -1,5 +1,5 @@
 # cgmsv lua
-
+forked from Muscipular/cgmsv-lua
 ## 模块系统
 支持动态加载、卸载以及版本升级的数据迁移。其中通过Module注册的回调卸载时自动清理，具体文档：[ModuleSystem.md](docs/ModuleSystem.md)
 
